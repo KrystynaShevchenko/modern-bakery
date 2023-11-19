@@ -1,0 +1,86 @@
+/* =========BASE-STYLES============ */
+:root {
+  --color-green: #819b57;
+  --color-green-dark: #465929;
+  --color-light: #faf4ea;
+  --color-black: #31261a;
+}
+
+body {
+  color: var(--color-black);
+  background-color: var(--color-light);
+}
+
+ul {
+  list-style-type: none;
+}
+
+/* ============HEADER============== */
+.header {
+}
+.header-nav {
+}
+.header-logo-link {
+}
+.header-logo-img {
+}
+.header-list {
+}
+.header-item {
+}
+.header-link {
+  color: var(--color-light);
+}
+
+.header-link:hover,
+.header-link:focus {
+  color: var(--color-green);
+}
+.header-btn {
+  color: var(--color-light);
+  border-radius: 8px;
+  border: 2px solid var(--color-green);
+  background-color: var(--color-green);
+}
+
+.header-btn:hover,
+.header-btn:focus {
+  background-color: transparent;
+  color: var(--color-green-dark);
+}
+
+/* =============================== */
+
+/* ============HERO============== */
+
+.hero {
+}
+.hero-title {
+  color: var(--color-green);
+}
+.hero-title-span {
+  color: var(--color-light);
+}
+
+/* =============================== */
+
+/* ============TRADITIONS============== */
+.traditions {
+}
+.traditions-list {
+  background-color: var(--color-green);
+}
+.traditions-item {
+  color: var(--color-light);
+}
+.traditions-title {
+}
+.traditions-text {
+}
+.traditions-text-span {
+  color: var(--color-green);
+}
+.traditions-img {
+}
+
+/* =============================== */
