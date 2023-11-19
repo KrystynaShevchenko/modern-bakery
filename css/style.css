@@ -84,3 +84,95 @@ ul {
 }
 
 /* =============================== */
+
+/* ============CHEFS============== */
+
+.chefs {
+}
+.chefs-title {
+  color: var(--color-black);
+}
+.chefs-title-span {
+  color: var(--color-green-dark);
+}
+.chefs-list {
+}
+.chefs-item {
+}
+.chefs-article {
+}
+.chefs-article-title {
+}
+.chefs-article-text {
+}
+
+/* ================================== */
+
+/* ============FORMATS=============== */
+.formats {
+}
+.formats-title {
+}
+.formats-list {
+}
+.formats-item {
+}
+.formats-article {
+}
+.formats-article-title {
+  color: var(--color-light);
+}
+.formats-article-text {
+  color: var(--color-light);
+}
+/* ================================== */
+
+/* ============CONTACTS============== */
+.contacts {
+}
+.contacts-title {
+}
+.contacts-iframe {
+}
+
+/* ================================== */
+
+/* ============FOOTER================ */
+.footer {
+}
+.footer-img {
+}
+.footer-nav {
+}
+.footer-logo-link {
+}
+.footer-list-nav {
+}
+.footer-item-nav {
+}
+.footer-link-nav {
+  color: var(--color-light);
+}
+.footer-address {
+}
+.footer-address-list {
+}
+.footer-address-item {
+}
+.footer-address-link {
+  color: var(--color-light);
+}
+.footer-list-icon {
+}
+.footer-item-icon {
+}
+.footer-link-icon {
+}
+.footer-confid-link {
+  color: var(--color-light);
+}
+.footer-confid-text {
+  color: #a18268;
+}
+
+/* ================================== */
